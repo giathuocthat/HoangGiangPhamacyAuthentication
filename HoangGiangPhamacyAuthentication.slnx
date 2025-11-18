@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Domains/Domains.csproj" />
+  <Project Path="HoangGiangPhamacyAuthentication/HoangGiangPhamacyAuthentication.csproj" />
+  <Project Path="Repositories/Repositories.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

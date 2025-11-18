@@ -1,0 +1,6 @@
+@HoangGiangPhamacyAuthentication_HostAddress = http://localhost:5294
+
+GET {{HoangGiangPhamacyAuthentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
