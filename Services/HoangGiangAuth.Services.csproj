@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Contracts\Contracts.csproj" />
-    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="..\Contracts\HoangGiangAuth.Contracts.csproj" />
+    <ProjectReference Include="..\Infrastructure\HoangGiangAuth.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
