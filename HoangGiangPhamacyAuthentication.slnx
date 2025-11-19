@@ -1,6 +1,7 @@
 <Solution>
-  <Project Path="Domains/Domains.csproj" />
+  <Project Path="Contracts/Contracts.csproj" Id="189c6fd2-d480-48b4-b139-89c6a692f513" />
+  <Project Path="Domain/Domain.csproj" Id="b24d14fe-8c28-4f1c-9783-ef14c2862530" />
   <Project Path="HoangGiangPhamacyAuthentication/HoangGiangPhamacyAuthentication.csproj" />
-  <Project Path="Repositories/Repositories.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="55c572de-0f0f-47e2-b217-b36108d55cd0" />
   <Project Path="Services/Services.csproj" />
 </Solution>
